@@ -18,5 +18,8 @@
     "semver": "5.x.x",
     "shell-utils": "1.x.x"
   },
-  "version": "16.0.0"
+  "version": "16.0.0",
+  "dependencies": {
+    "lerna": "^3.20.2"
+  }
 }
